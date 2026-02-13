@@ -1,2 +1,2 @@
 # ESPX
-Destroys ESP(EFI System Partition.) This can be considered malware. Only test in VMs. This was made in batch.
+Destroys ESP(EFI System Partition.) EDUCATIONAL PURPOSES ONLY. TEST ONLY IN SAFE VMS. This was made in batch.
